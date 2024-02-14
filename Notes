@@ -1,0 +1,8 @@
+Training pipeline
+    1. data ingetion
+    2. processing
+    3. model Training
+    4. push model
+    5. modle evaluation
+
+Prediction pipeline
